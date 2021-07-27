@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#sudo apt install openvpn-systemd-resolved resolvconf openvpn ufw
+sudo apt install openvpn-systemd-resolved resolvconf openvpn ufw
 chmod +x enableKillSwitch.sh
 chmod +x disableKillSwitch.sh
 chmod +x iptableskillswitch.sh
